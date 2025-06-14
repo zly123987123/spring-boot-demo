@@ -20,7 +20,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <jjwt.veersion>0.9.1</jjwt.veersion>
+        <jjwt.veersion>0.12.0</jjwt.veersion>
     </properties>
 
     <dependencies>
